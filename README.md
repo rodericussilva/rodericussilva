@@ -5,7 +5,9 @@
 ---
 
 ## Sobre Mim
-Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender e aplicar novos conhecimentos. Com experiência prática em desenvolvimento web e automação, gosto de transformar ideias em soluções reais e eficientes.
+Trago entusiasmo e paixão por tecnologia e um compromisso contínuo com o aprendizado. Minhas habilidades técnicas abrangem desde o desenvolvimento web até a análise de dados e o uso de metodologias ágeis. Possuo capacidade de comunicação, trabalho em equipe e resolução de problemas, e estou sempre em busca de me manter atualizado com as últimas tendências e tecnologias.
+Meu perfil é marcado por uma sólida formação acadêmica, certificações relevantes, e uma abordagem proativa para o desenvolvimento de habilidades. Estou comprometido em contribuir de forma significativa para projetos desafiadores e em expandir meu conhecimento em um ambiente de trabalho dinâmico.
+Estou aberto a conexões e oportunidades que possam alavancar meu crescimento profissional e acadêmico.
 
 - 🌱 Atualmente, estou aprendendo mais sobre **React**.
 - 💼 Buscando oportunidades de vagas para programadores júnior.
@@ -19,7 +21,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ Plataforme de serviço em nuvem
+### ☁️ Plataforma de serviço em nuvem
 - ![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Frameworks e Bibliotecas:
